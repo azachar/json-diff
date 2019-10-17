@@ -1,5 +1,6 @@
 node_modules
 *.js
+!lib/index.js
 !bin/*.js
 /lib-cov
 coverage.html
